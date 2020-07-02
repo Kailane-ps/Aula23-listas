@@ -1,0 +1,17 @@
+C:\Users\Kailane\Desktop\555\obj\Debug\netcoreapp3.1\555.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\555\obj\Debug\netcoreapp3.1\555.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\555\obj\Debug\netcoreapp3.1\555.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\555\obj\Debug\netcoreapp3.1\555.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\listas\bin\Debug\netcoreapp3.1\555.exe
+C:\Users\Kailane\Desktop\SENAI K\listas\bin\Debug\netcoreapp3.1\555.deps.json
+C:\Users\Kailane\Desktop\SENAI K\listas\bin\Debug\netcoreapp3.1\555.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\listas\bin\Debug\netcoreapp3.1\555.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\listas\bin\Debug\netcoreapp3.1\555.dll
+C:\Users\Kailane\Desktop\SENAI K\listas\bin\Debug\netcoreapp3.1\555.pdb
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.dll
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.pdb
+C:\Users\Kailane\Desktop\SENAI K\listas\obj\Debug\netcoreapp3.1\555.genruntimeconfig.cache
